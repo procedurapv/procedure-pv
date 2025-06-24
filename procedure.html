@@ -17,6 +17,26 @@
         background-size: 1500% 1500%;
         border-radius: 10px;
     }
+
+    h1, h2, h3, h4, h5, h6, p, ul, li, div {
+        margin-top: 4px;
+        margin-bottom: 4px;
+        line-height: 1.2;
+    }
+
+    ul {
+        padding-left: 18px;
+    }
+
+    br {
+        display: none;
+    }
+
+    .spazio {
+        margin-top: 12px;
+        margin-bottom: 12px;
+        display: block;
+    }
 </style>
 
 <h2 class="lampeggia-colore">
@@ -24,10 +44,8 @@ ATTENZIONE!!!<br>
 PUNTO VENDITA CON NUOVA PROCEDURA<br>
 </h2>
 
-
 <script>
-function Clipboard(data, target)
-{
+function Clipboard(data, target) {
      navigator.clipboard.writeText(data);
      var noteclip = document.getElementById(target);
      noteclip.style.display ="";
@@ -35,53 +53,46 @@ function Clipboard(data, target)
 }
 </script>
 
-
-<br>
 <h5 style="font-weight:bold; color:red;">ATTENZIONE! FUORI SEDE NOVENTA, VERIFICARE DI AVERE ATTIVA LA VPN AD-ROADWARRIOR</h5>
 
-<br>
 <a href="" target="_blank">
-<div style="height:40px; display: flex; align-items: center;">
-<span style="text-decoration: underline"><img src="images/pv_management.png" style="margin-right: 5px">Collegamento punto vendita (clicca qui)</span>
-</div></a>
+  <div style="height:40px; display: flex; align-items: center;">
+    <span style="text-decoration: underline">
+      <img src="images/pv_management.png" style="margin-right: 5px">Collegamento punto vendita (clicca qui)
+    </span>
+  </div>
+</a>
 
-<div style="height:40px; display: flex; align-items: center;  cursor:pointer;" onclick="Clipboard('','noteclip')">
-<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 223 223" style="margin-right: 5px"><path d="M219 114c0-17-4.4-33-12-47 33-74-35-63-39-63-14 2.8-28 7.3-40 13-46-.55-86 24-99 75 24-27 41-38 51-42-2.1 1.9-4.2 3.9-6.3 5.9-16 16-29 32-40 49-8.5 15-18 28-23 45-27 98 58 57 70 50 13 6.4 27 9.9 43 9.9 42 0 78-27 91-64h-51c-24 38-81 21-83-20h138c.52-4.1.8-8.2.8-12zm-18-95c8.3 5.6 15 14 3.5 44-11-18-27-32-47-39 8.9-4.3 31-13 44-5zM24 200c-6.8-6.9-8-24 7-55 7.5 22 23 40 42 51-9.7 5.3-35 17-49 3.3zm56-100c.77-22 20-40 44-40s43 18 44 40H81z" fill="#1ebbee"/></svg>
-<span style=" text-decoration: underline" >Copia il link per Internet Explorer (clicca qui)</span>
-<span id="noteclip" style="display:none; margin-left:10px; color:#00A518; font-weight:bold;">COPIATO!</span>
+<div style="height:40px; display: flex; align-items: center; cursor:pointer;" onclick="Clipboard('', 'noteclip')">
+  <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 223 223" style="margin-right: 5px">
+    <path d="M219 114c0-17-4.4-33-12-47 33-74-35-63-39-63-14 2.8-28 7.3-40 13-46-.55-86 24-99 75 24-27 41-38 51-42-2.1 1.9-4.2 3.9-6.3 5.9-16 16-29 32-40 49-8.5 15-18 28-23 45-27 98 58 57 70 50 13 6.4 27 9.9 43 9.9 42 0 78-27 91-64h-51c-24 38-81 21-83-20h138c.52-4.1.8-8.2.8-12zm-18-95c8.3 5.6 15 14 3.5 44-11-18-27-32-47-39 8.9-4.3 31-13 44-5zM24 200c-6.8-6.9-8-24 7-55 7.5 22 23 40 42 51-9.7 5.3-35 17-49 3.3zm56-100c.77-22 20-40 44-40s43 18 44 40H81z" fill="#1ebbee"/>
+  </svg>
+  <span style="text-decoration: underline">Copia il link per Internet Explorer (clicca qui)</span>
+  <span id="noteclip" style="display:none; margin-left:10px; color:#00A518; font-weight:bold;">COPIATO!</span>
 </div>
 
-
-</br>
-<span stype="margin-top:50px">Username<span><input class="form-control focusable" readonly="readonly"  style="max-width:300px" value="crea120">
-<span>Password<span><input class="form-control focusable" readonly="readonly"  style="max-width:300px" value="535688">
-<br>
-
-<br>
+<span class="spazio"></span>
+<p><b>Username:</b> <input class="form-control focusable" readonly="readonly" style="max-width:300px" value="crea120"></p>
+<p><b>Password:</b> <input class="form-control focusable" readonly="readonly" style="max-width:300px" value="535688"></p>
 
 <h4 style="font-weight:bold">RIFERIMENTI PUNTO VENDITA:</h4>
-Punto Vendita: 013155658 <br>
-Ufficio Manutenzione: 029279023 <br>
-Centrale Allarmi: 0292937979
+<p>Punto Vendita: 013155658<br>
+Ufficio Manutenzione: 029279023<br>
+Centrale Allarmi: 0292937979</p>
+
 <h4 style="font-weight:bold">RIFERIMENTI REPERIBILITA' TECNICA DIURNO/NOTTURNO:</h4>
 <h5 style="font-weight:bold">Diurno (8:00 alle 18:00) tranne sabato, domenica e festivi:</h5>
-Reperibile Diurno: Service CREA 338 6197169
+<p>Reperibile Diurno: Service CREA 338 6197169</p>
 <h5 style="font-weight:bold">Notturno (18:00 alle 8:00) + sabato, domenica e festivi</h5>
-1° Reperibile Notturno/Festivo: CREA 334 9035288 <br>
-2° Reperibile Notturno/Festivo: CONTI 039 695290
-<br>
-<br>
+<p>1° Reperibile Notturno/Festivo: CREA 334 9035288<br>
+2° Reperibile Notturno/Festivo: CONTI 039 695290</p>
 
+<h2 style="font-weight:bold" align=center>PROCEDURA SEGNALAZIONI:</h2>
 
-
-<h2 style="font-weight:bold" align=center>PROCEDURA SEGNALAZIONI:</h2></span> 
-
-<br>
-
-<h2 style="font-weight:bold">ATTENZIONE!!! tutti gli allarmi (su utenze, centrali, chiller, CDZ, ecc.) 
+<h2 style="font-weight:bold">ATTENZIONE!!! tutti gli allarmi (su utenze, centrali, chiller, CDZ, ecc.)</h2>
 <ul>
-<li>priorità  <span style="color: orange;">Alta</span> e priorità <span style="color: red;">Altissima </span> <u>SONO</u> da segnalare;</li>
-<li> priorità  <span style="color: yellow;">Media</span> e priorità <span style="color: lightgray;">Bassa</span> <u>NON</u> sono da segnalare.</li>
+  <li>priorità <span style="color: orange;">Alta</span> e priorità <span style="color: red;">Altissima </span> <u>SONO</u> da segnalare</li>
+  <li>priorità <span style="color: yellow;">Media</span> e priorità <span style="color: lightgray;">Bassa</span> <u>NON</u> sono da segnalare</li>
 </ul>
 </h2>
 
