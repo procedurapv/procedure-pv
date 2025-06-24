@@ -1,2 +1,140 @@
-# procedure-pv
-Procedura condivisa per punti vendita
+</div>
+
+<style>
+    @keyframes sfuma-arcobaleno {
+        0%   { background-position: 0% 50%; }
+        50%  { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+
+    .lampeggia-colore {
+        padding: 20px;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        animation: sfuma-arcobaleno 10s linear infinite;
+        background: linear-gradient(270deg, red, orange, yellow, green, blue, indigo, violet, red);
+        background-size: 1500% 1500%;
+        border-radius: 10px;
+    }
+</style>
+
+<h2 class="lampeggia-colore">
+ATTENZIONE!!!<br> 
+PUNTO VENDITA CON NUOVA PROCEDURA<br>
+</h2>
+
+
+<script>
+function Clipboard(data, target)
+{
+     navigator.clipboard.writeText(data);
+     var noteclip = document.getElementById(target);
+     noteclip.style.display ="";
+     setTimeout(function() {noteclip.style.display ="none"}, 1000);
+}
+</script>
+
+
+<br>
+<h5 style="font-weight:bold; color:red;">ATTENZIONE! FUORI SEDE NOVENTA, VERIFICARE DI AVERE ATTIVA LA VPN AD-ROADWARRIOR</h5>
+
+<br>
+<a href="" target="_blank">
+<div style="height:40px; display: flex; align-items: center;">
+<span style="text-decoration: underline"><img src="images/pv_management.png" style="margin-right: 5px">Collegamento punto vendita (clicca qui)</span>
+</div></a>
+
+<div style="height:40px; display: flex; align-items: center;  cursor:pointer;" onclick="Clipboard('','noteclip')">
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewbox="0 0 223 223" style="margin-right: 5px"><path d="M219 114c0-17-4.4-33-12-47 33-74-35-63-39-63-14 2.8-28 7.3-40 13-46-.55-86 24-99 75 24-27 41-38 51-42-2.1 1.9-4.2 3.9-6.3 5.9-16 16-29 32-40 49-8.5 15-18 28-23 45-27 98 58 57 70 50 13 6.4 27 9.9 43 9.9 42 0 78-27 91-64h-51c-24 38-81 21-83-20h138c.52-4.1.8-8.2.8-12zm-18-95c8.3 5.6 15 14 3.5 44-11-18-27-32-47-39 8.9-4.3 31-13 44-5zM24 200c-6.8-6.9-8-24 7-55 7.5 22 23 40 42 51-9.7 5.3-35 17-49 3.3zm56-100c.77-22 20-40 44-40s43 18 44 40H81z" fill="#1ebbee"/></svg>
+<span style=" text-decoration: underline" >Copia il link per Internet Explorer (clicca qui)</span>
+<span id="noteclip" style="display:none; margin-left:10px; color:#00A518; font-weight:bold;">COPIATO!</span>
+</div>
+
+
+</br>
+<span stype="margin-top:50px">Username<span><input class="form-control focusable" readonly="readonly"  style="max-width:300px" value="crea120">
+<span>Password<span><input class="form-control focusable" readonly="readonly"  style="max-width:300px" value="535688">
+<br>
+
+<br>
+
+<h4 style="font-weight:bold">RIFERIMENTI PUNTO VENDITA:</h4>
+Punto Vendita: 013155658 <br>
+Ufficio Manutenzione: 029279023 <br>
+Centrale Allarmi: 0292937979
+<h4 style="font-weight:bold">RIFERIMENTI REPERIBILITA' TECNICA DIURNO/NOTTURNO:</h4>
+<h5 style="font-weight:bold">Diurno (8:00 alle 18:00) tranne sabato, domenica e festivi:</h5>
+Reperibile Diurno: Service CREA 338 6197169
+<h5 style="font-weight:bold">Notturno (18:00 alle 8:00) + sabato, domenica e festivi</h5>
+1° Reperibile Notturno/Festivo: CREA 334 9035288 <br>
+2° Reperibile Notturno/Festivo: CONTI 039 695290
+<br>
+<br>
+
+
+
+<h2 style="font-weight:bold" align=center>PROCEDURA SEGNALAZIONI:</h2></span> 
+
+<br>
+
+<h2 style="font-weight:bold">ATTENZIONE!!! tutti gli allarmi (su utenze, centrali, chiller, CDZ, ecc.) 
+<ul>
+<li>priorità  <span style="color: orange;">Alta</span> e priorità <span style="color: red;">Altissima </span> <u>SONO</u> da segnalare;</li>
+<li> priorità  <span style="color: yellow;">Media</span> e priorità <span style="color: lightgray;">Bassa</span> <u>NON</u> sono da segnalare.</li>
+</ul>
+</h2>
+
+<br>
+
+<h4 style="font-weight:bold">GESTIONE ALLARMI PRIORITA' <span style="color: orange;">ALTA</span></h4>
+<ul>
+<li>Dal Lunedì al Venerdì <b>DIURNO</b> (dalle ore 8:00 alle ore 18:00) segnalazione per mezzo di chiamata a <b>Tec. Reperibile DIURNO</b> e invio TICKET</li>
+<li>Sabato, Domenica e Festivi <b>DIURNO</b> (dalle ore 8:00 alle ore 18:00) segnalazione per mezzo di chiamata a <b>Tec. Reperibile Notturno/Festivo</b> e invio TICKET</li></li>
+<li>Tutti i giorni in orario <span style="color: red;"><b>NOTTURNO</b></span> (dalle ore 18:00 alle ore 8:00) inviare solamente segnalazione per mezzo di TICKET</li>
+</ul>
+
+<br>
+
+<h4 style="font-weight:bold">GESTIONE ALLARMI PRIORITA' <span style="color: red;">ALTISSIMA</span></h4>
+<ul>
+<li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET <a href="#" onclick="alert('ESEMPIO PRATICO:\ndalle 5:00 di Lunedì alle 23:59 e dalle 00:00 all\'1:00 di Martedì;\ndalle 5:00 di Martedì alle 23:59 e dalle 00:00 all\'1:00 di Mercoledì;\ndalle 5:00 di Mercoledì alle 23:59 e dalle 00:00 all\'1:00 di Giovedì;\ndalle 5:00 di Giovedì alle 23:59 e dalle 00:00 all\'1:00 di Venerdì;\ndalle 5:00 di Venerdì alle 23:59 e dalle 00:00 all\'1:00 di Sabato;\ndalle 5:00 di Sabato alle 23:59 e dalle 00:00 all\'1:00 di Domenica;\ndalle 7:00 di Domenica alle 14:30.'); return false;">ℹ️ Info</a></li>
+<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET</li></li>
+<li>Al di fuori degli orari sopra elencati: segnalazione per mezzo di chiamata a <b>Centrale Allarmi</b> e invio TICKET <a href="#" onclick="alert('ESEMPIO PRATICO:\ndall\'1:00 di Domenica alle 7:00 di Domenica;\ndalle 14:30 di Domenica alle 23:59 e dalle 00:00 alle 5:00 di Lunedì;\ndall\'1:00 di Martedì alle 5:00 di Martedì;\ndall\'1:00 di Mercoledì alle 5:00 di Mercoledì;\ndall\'1:00 di Giovedì alle 5:00 di Giovedì;\ndall\'1:00 di Venerdì alle 5:00 di Venerdì;\ndall\'1:00 di Sabato alle 5:00 di Sabato;'); return false;">ℹ️ Info</a></li></li>
+</ul>
+
+<br>
+
+<h4 style="font-weight:bold">GESTIONE ALLARMI PORTA APERTA</h4>
+<ul>
+<li>Ad apertura PV: segnalazione per mezzo di chiamata a <b>Punto Vendita</b> e invio TICKET</li>
+<li>A chiusura PV contattare: <ul><li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET</li>
+<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET</li></li>
+<li>Al di fuori degli orari sopra elencati: segnalazione per mezzo di chiamata a <b>Centrale Allarmi</b> e invio TICKET</li></li>
+</ul></li>
+</ul>
+
+<br>
+
+<h4 style="font-weight:bold">GESTIONE ALLARMI ALTA TEMPERATURA SULLE CELLE:</h4>
+<h4 style="font-weight:bold"><span style="color: red;">(Dopo due ore segnalare alta temperatura celle, le due ore devono partire da quando la porta è chiusa).</span></h4>
+<ul>
+<li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET</li>
+<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET</li></li>
+<li>Al di fuori degli orari sopra elencati: segnalazione per mezzo di chiamata a <b>Centrale Allarmi</b> e invio TICKET</li></li>
+</ul>
+
+<br>
+
+<h4 style="font-weight:bold">GESTIONE ALLARME SEGNALE VITA KO:</h4>
+<ul>
+<li><span style="color: red;"><b>COLLEGAMENTO KO: </span></b> gestire come allarme di priorità <b><span style="color: orange;">ALTA</span></b></li>
+<li><b>COLLEGAMENTO OK</b>, <span style="color: red;">ma mancata ricezione mail:</span> gestire come allarme di priorità <span style="color: orange;">ALTA</span></li>
+</ul>
+
+
+<br><br><br>
+
+
+
+
