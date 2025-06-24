@@ -1,0 +1,134 @@
+
+<br>
+
+<h2 style="font-weight:bold" align=center>PROCEDURA SEGNALAZIONI:</h2></span>
+<br>
+<h2 style="font-weight:bold">ATTENZIONE!!! Per le centrali e relativi strumenti segnalare tutto con chiamata al Tecnico e invio ticket.</h2>
+<br>
+<span style="font-weight:bold; color:red;">NOTA IMPORTANTE PER GESTIONE ALLARMI RELATIVI AI SENSORI GAS CENTRALI E CELLE</span></br>
+Segnalare allarmi relativi ai sensori gas Centrali o Celle SOLO con allarme livello 3 o dove NON sono presenti i 3 livelli di allarme considerare ‘’Stato Allarme’’.</br></br>
+
+</br>
+
+<h2 style="font-weight:bold">ATTENZIONE!!! Per tutti gli allarmi sulle utenze diversi da: </h2> 
+<h4 style="font-weight:bold">
+<ul>
+<li>ALTA TEMPERATURA,</li> 
+<li>BASSO SURRISCALDAMENTO,</li> 
+<li>ALLARME PORTA APERTA,</li> 
+<li>OFFLINE,</li>  
+<li>ALLARME DIFFERENZIALE VENTOLE,</li>  
+<li>RESISTENZE SBRINAMENTO</li> </h4> 
+<h2 style="font-weight:bold"> inserire nota "allarme da ignorare come da comunicazione di CREA" e archiviare.</h2>
+<br>
+
+<h2 style="font-weight:bold">ATTENZIONE!!! </h2> 
+<h4 style="font-weight:bold">
+<ul>
+<li>utenze con allarmi HACCP </li>
+<li>utenze nominate HACCP con qualsiasi tipo di allarme </li>
+</ul>
+</h2>
+<h2 style="font-weight:bold"> inserire nota "allarme da ignorare come da comunicazione di CREA" e archiviare. </h2> 
+
+<br><br>
+
+
+<h4 style="font-weight:bold">ESCALATION DI SEGNALAZIONE:</h4>
+<ul>
+<li> Lunedì al Venerdì notturno (dalle ore 18:00 alle ore 8:00), Sabato, Domenica e Festivi: Reperibile Tecnico Notturno;</span><br></li>
+<li>Lunedì al Venerdì diurno tranne Festivi (dalle ore 8:00 alle ore 18:00): Reperibile Tecnico Diurno.</li>
+</ul></br>
+
+<h4 style="font-weight:bold">PORTE APERTE/ALTA TEMPERATURA + ALLARME PORTE APERTE</h4>
+<ul>
+<li>A PV aperto contattare telefonicamente l'interno e far verificare;</li>
+<li>A PV chiuso chiamare il reperibile del negozio e far verificare. </li>
+</ul>
+<span style="font-weight:bold; color:red;">N.B PORTE APERTE. </span>Dopo aver cliccato sul Tasto CREA TICKET, selezionare dal menù a tendina fornitore SMARTGRID365 - PORTE APERTE, in questo modo la segnalazione rimane interna e non arriva ad alcun riferimento email (richiesta CREA).
+
+</br>
+<h4 style="font-weight:bold">ALLARME DI ALTA TEMPERATURA SU CELLE:</h4>
+<ul>
+<li>A PV aperto contattare telefonicamente l’interno del PV e richiedere una verifica immediata:</span><br></li>
+<ul>
+<li>Qualora il PV non verificasse o non fornisca un esito chiaro, dal lunedì al venerdì dalle ore 8.00 alle ore 18.00 procederemo direttamente con l'avvisare telefonicamente il Reperibile Tecnico Diurno.</span><br></li>
+<li>Qualora il PV non verificasse o non fornisca un esito chiaro, dal Lunedì al Venerdì notturno (dalle ore 18:00 alle ore 8:00), Sabato, Domenica e Festivi: procederemo direttamente con l'avvisare telefonicamente il Reperibile Tecnico Notturno</li>
+</ul>
+<li>A PV chiuso contattare il Reperibile notturno del PV e richiedere una verifica della situazione e ricontatto una volta giunto in PV:</li>
+<ul>
+<li>Qualora il reperibile dopo la verifica non fornisca un esito chiaro o non ci richiami all'orario stabilito precedentemente, procederemo direttamente con l'avvisare telefonicamente il Referente Area METRO h24. </span><br></li>
+<li>Lunedì al Venerdì notturno (dalle ore 18:00 alle ore 8:00), Sabato, Domenica e Festivi: Tecnico Reperibile Notturno</li>
+</ul>
+</ul></br>
+<span style="font-weight:bold; color:red;">CAUSA RICONDUCIBILE AL PUNTO VENDITA:</span>
+Se l’allarme è generato da condizioni note (es. pulizia, manutenzione o disuso) comunicate dal punto vendita, queste saranno annotate e l'evento archiviato
+
+</br>
+<h4 style="font-weight:bold">ALLARME DI ALTA TEMPERATURA SU PLUG-IN BT:</h4>
+<ul>
+<li>Non chiamare mai il reperibile Metro a meno che il banco non sia in temperatura positiva o con evidente grafico in salita</li>
+<li>Se il banco rimane in allarme di alta temperatura contattare il mattino seguente il Tecnico Reperibile Diurno nei giorni Feriali.</li>
+<li>Lunedì al Venerdì notturno (dalle ore 18:00 alle ore 8:00), Sabato, Domenica e Festivi: tenere monitorato e SOLO nel caso il grafico sia in salita o con Temperatura sopra ai -5°C chiamare il Tecnico Reperibile Notturno che valuterà il da farsi</li>
+<li>A seguito dei nostri controlli vi informiamo se chiamare il negozio o se non dovete tenerne conto dell'allarme.</li>
+<li>Sui plug in gli allarmi vengono gestiti da strumenti appositi che discostano di parecchi gradi rispetto le temperature reali del banco, perciò NON CHIAMARE MAI IL REPERIBILE METRO SE IL GRAFICO È STABILE E NON È IN SALITA.</li>
+</ul>
+</br>
+
+<h4 style="font-weight:bold">ALLARME DI ALTA TEMPERATURA RESTANTI UTENZE:</h4>
+
+<h5 style="font-weight:bold">In caso di <span style="font-weight:bold; color:red;">Sonda di ripresa (o Sonda di temperatura 2) in allarme</span>, ma con Sonda di temperatura mandata regolare, <br>
+ <span style="font-weight:bold; color:red;"> NON chiamare il PV</span> altrimenti a prescindere svuotano l'utenza e chiedono l'intervento, in questi casi in giorni feriali se si è in orario diurno avvisare con chiamata CREA + inviare Ticket,<br>
+ in orario notturno o nei festivi in orario diurno mandare solo Ticket.</h5>
+
+<ul>
+<li>A PV aperto contattare telefonicamente l’interno del PV e richiedere una verifica immediata:</span><br></li>
+<ul>
+<li>Qualora il PV non verificasse o non fornisca un esito chiaro, dal lunedì al venerdì dalle ore 8.00 alle ore 18.00 procederemo direttamente con l'avvisare telefonicamente il Reperibile Tecnico Diurno.</span><br></li>
+<li>Qualora il PV non verificasse o non fornisca un esito chiaro, dal Lunedì al Venerdì notturno (dalle ore 18:00 alle ore 8:00), Sabato, Domenica e Festivi: procederemo direttamente con l'avvisare telefonicamente il Reperibile Tecnico Notturno</li>
+</ul>
+<li>A PV chiuso contattare il Reperibile notturno del PV e richiedere una verifica della situazione e ricontatto una volta giunto in PV:</li>
+<ul>
+<li>Qualora il reperibile dopo la verifica non fornisca un esito chiaro o non ci richiami all'orario stabilito precedentemente, procederemo direttamente con l'avvisare telefonicamente il Referente Area METRO h24. </span><br></li>
+<li>Lunedì al Venerdì notturno (dalle ore 18:00 alle ore 8:00), Sabato, Domenica e Festivi: Tecnico Reperibile Notturno</li>
+</ul>
+</ul></br>
+<span style="font-weight:bold; color:red;">CAUSA RICONDUCIBILE AL PUNTO VENDITA:</span>
+Se l’allarme è generato da condizioni note (es. pulizia, manutenzione o disuso) comunicate dal punto vendita, queste saranno annotate e l'evento archiviato
+</br>
+
+<h4 style="font-weight:bold">ALLARME DIFFERENZIALE VENTOLE e RESISTENZE SBRINAMENTO:</h4>
+<ul>
+<li>A PV aperto contattare telefonicamente l’interno del PV e richiedere una verifica immediata:</span><br></li>
+<ul>
+<li>Qualora il PV non verificasse o non fornisca un esito chiaro, dal lunedì al venerdì dalle ore 8.00 alle ore 18.00 procederemo direttamente con l'avvisare telefonicamente il Reperibile Tecnico Diurno.</span><br></li>
+<li>Lunedì al Venerdì diurno tranne Festivi (dalle ore 8:00 alle ore 18:00): Tecnico Reperibile Diurno</li>
+</ul>
+<li>A PV chiuso contattare il Reperibile notturno del PV e richiedere una verifica della situazione e ricontatto una volta giunto in PV:</li>
+<ul>
+<li>Qualora il reperibile dopo la verifica non fornisca un esito chiaro o non ci richiami all'orario stabilito precedentemente, procederemo direttamente con l'avvisare telefonicamente il Referente Area METRO h24. </span><br></li>
+<li>Nel caso l’allarme fosse confermato fare svuotare al PV l’Utenza e la mattina successiva avvisare il Tecnico Reperibile Diurno per procedere con l’intervento.</li>
+</ul>
+</ul></br>
+
+<h4 style="font-weight:bold">OFFLINE SU TUTTE LE UTENZE:</h4>
+<ul>
+<li>A PV aperto contattare telefonicamente l’interno del PV e richiedere una verifica immediata:</span><br></li>
+<ul>
+<li>Qualora il PV non verificasse o non fornisca un esito chiaro, dal lunedì al venerdì dalle ore 8.00 alle ore 18.00 procederemo direttamente con l'avvisare telefonicamente il Reperibile Tecnico Diurno.</span><br></li>
+<li>Lunedì al Venerdì diurno tranne Festivi (dalle ore 8:00 alle ore 18:00): Tecnico Reperibile Diurno</li>
+</ul>
+<li>A PV chiuso contattare il Reperibile notturno del PV e richiedere una verifica della situazione e ricontatto una volta giunto in PV:</li>
+<ul>
+<li>Qualora il reperibile dopo la verifica non fornisca un esito chiaro o non ci richiami all'orario stabilito precedentemente, procederemo direttamente con l'avvisare telefonicamente il Referente Area METRO h24. </span><br></li>
+<li>Nel caso l’allarme fosse confermato fare svuotare al PV l’Utenza e la mattina successiva avvisare il Tecnico Reperibile Diurno per procedere con l’intervento.</li>
+</ul>
+</ul></br>
+<span style="font-weight:bold; color:red;">CAUSA RICONDUCIBILE AL PUNTO VENDITA:</span>
+Se l’allarme è generato da condizioni note (es. pulizia, manutenzione o disuso) comunicate dal punto vendita, queste saranno annotate e l'evento archiviato
+
+<h4 style="font-weight:bold">SEGNALE VITA KO PGA10:</h4>
+Gestire l'allarme solo dal Lunedì al Venerdì diurno tranne Festivi (dalle ore 8:00 alle ore 18:00) Tecnico Reperibile Diurno
+<li>Al di fuori di questi orari e giorni informare il Reperibile notturno del PV. (provare a riavviare il supervisore)./span><br></li>
+</ul>
+<br>
