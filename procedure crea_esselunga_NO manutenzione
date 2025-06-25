@@ -1,0 +1,77 @@
+<style>
+    @keyframes lampeggia-colore {
+    0%, 100% { background-color: yellow; }
+    50% { background-color: red; }
+    }
+
+    .lampeggia-colore {
+    padding: 10px;
+    animation: lampeggia-colore 1s linear infinite;
+    }
+</style>
+<h2 class="lampeggia-colore"> ATTENZIONE!!! </br> 
+DALLE 18.00 ALLE 8.00 NON CHIAMARE NESSUNO, INVIARE SOLAMENTE SEGNALAZIONE<br>
+(per gli allarmi che in orario diurno si dovrebbero gestire, il resto inserire nota e archiviare)</br>
+
+<br>
+<br>
+
+
+
+
+<h2 style="font-weight:bold" align=center>PROCEDURA SEGNALAZIONI:</h2></span>
+<br>
+</br>
+
+<h2 style="font-weight:bold">ATTENZIONE!!! tutti gli allarmi (su utenze, centrali, chiller, CDZ, ecc.) 
+<ul>
+<li>priorità  <span style="color: orange;">Alta</span> e priorità <span style="color: red;">Altissima </span> <u>SONO</u> da segnalare;</li>
+<li> priorità  <span style="color: yellow;">Media</span> e priorità <span style="color: lightgray;">Bassa</span> <u>NON</u> sono da segnalare.</li>
+</ul>
+</h2>
+
+
+<br><br>
+
+<h4 style="font-weight:bold">ESCALATION DI SEGNALAZIONE:</h4>
+<ul>
+<li> Sabato, Domenica e Festivi(dalle ore 8:00 alle ore 18:00): Reperibile Frigorista FESTIVO;</span><br></li>
+<li>Lunedì al Venerdì diurno tranne Festivi (dalle ore 8:00 alle ore 18:00): Reperibile Frigorista DIURNO.</li>
+</ul></br>
+
+
+<h4 style="font-weight:bold">ALTA TEMPERATURA SULLE CELLE:</h4>
+<h4 style="font-weight:bold"><span style="color: red;">(Dopo due ore segnalare alta temperatura celle, le due ore devono partire da quando la porta è chiusa).</span></h4>
+<ul>
+<li>Sabato, Domenica e Festivi (dalle ore 8:00 alle ore 18:00): contattare Reperibile Frigorista FESTIVO;</span><br></li>
+<li>Lunedì al Venerdì diurno tranne Festivi (dalle ore 8:00 alle ore 18:00): Reperibile Frigorista DIURNO.</li>
+</ul>
+<br>
+
+<h4 style="font-weight:bold"> ALTA TEMPERATURA SULLE RESTANTI UTENZE:</h4>
+<ul>
+<li> Sabato, Domenica e Festivi (dalle ore 8:00 alle ore 18:00): contattare Reperibile Frigorista FESTIVO</li>
+<li>Lunedì al Venerdì diurno tranne Festivi (dalle ore 8:00 alle ore 18:00): Reperibile Frigorista DIURNO</li>
+</ul>
+<br>
+
+<h4 style="font-weight:bold">BASSO SURRISCALDAMENTO SU UTENZE:</h4>
+<ul>
+<li>Sabato, Domenica e Festivi (dalle ore 8:00 alle ore 18:00): contattare Reperibile Frigorista FESTIVO;</span><br></li>
+<li>Lunedì al Venerdì diurno tranne Festivi (dalle ore 8:00 alle ore 18:00): contattare Reperibile Frigorista DIURNO.</li>
+</ul>
+<br>
+
+<h4 style="font-weight:bold">ALLARME DIFFERENZIALE VENTOLE, RESISTENZE SBRINAMENTO o OFFLINE SU TUTTE LE UTENZE:</h4>
+<ul>
+<li>Sabato, Domenica e Festivi(dalle ore 8:00 alle ore 18:00): contattare Reperibile Frigorista FESTIVO;</span><br></li>
+<li>Lunedì al Venerdì diurno tranne Festivi (dalle ore 8:00 alle ore 18:00): contattare Reperibile Frigorista DIURNO.</li>
+</ul>
+<br>
+
+<h4 style="font-weight:bold">SEGNALE VITA KO PGA10:</h4>
+<ul>
+<li>Sabato, Domenica e Festivi(dalle ore 8:00 alle ore 18:00): contattare Reperibile Frigorista FESTIVO;</span><br></li>
+<li>Lunedì al Venerdì diurno tranne Festivi (dalle ore 8:00 alle ore 18:00): contattare Reperibile Frigorista Diurno.</li>
+</ul>
+<br>
