@@ -1,0 +1,58 @@
+<h2 style="font-weight:bold" align=center>PROCEDURA SEGNALAZIONI:</h2></span>
+<br>
+
+<h2 style="font-weight:bold">ATTENZIONE!!! tutti gli allarmi (su utenze, centrali, chiller, CDZ, ecc.) 
+<ul>
+<li>priorità  <span style="color: orange;">Alta</span> e priorità <span style="color: red;">Altissima </span> <u>SONO</u> da segnalare;</li>
+<li> priorità  <span style="color: yellow;">Media</span> e priorità <span style="color: lightgray;">Bassa</span> <u>NON</u> sono da segnalare.</li>
+</ul>
+</h2>
+
+<br>
+
+<h4 style="font-weight:bold">GESTIONE ALLARMI PRIORITA' <span style="color: orange;">ALTA</span></h4>
+<ul>
+<li>Dal Lunedì al Venerdì <b>DIURNO</b> (dalle ore 8:00 alle ore 18:00) segnalazione per mezzo di chiamata a <b>Tec. Reperibile DIURNO</b> e invio TICKET</li>
+<li>Sabato, Domenica e Festivi <b>DIURNO</b> (dalle ore 8:00 alle ore 18:00) segnalazione per mezzo di chiamata a <b>Tec. Reperibile Notturno/Festivo</b> e invio TICKET</li></li>
+<li>Tutti i giorni in orario <span style="color: red;"><b>NOTTURNO</b></span> (dalle ore 18:00 alle ore 8:00) inviare solamente segnalazione per mezzo di TICKET</li>
+</ul>
+
+<br>
+
+<h4 style="font-weight:bold">GESTIONE ALLARMI PRIORITA' <span style="color: red;">ALTISSIMA</span></h4>
+<ul>
+<li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET</li>
+<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET</li></li>
+<li>Al di fuori degli orari sopra elencati: segnalazione per mezzo di chiamata a <b>Centrale Allarmi</b> e invio TICKET</li></li>
+</ul>
+
+<br>
+
+<h4 style="font-weight:bold">GESTIONE ALLARMI PORTA APERTA</h4>
+<ul>
+<li>Ad apertura PV: segnalazione per mezzo di chiamata a <b>Punto Vendita</b> e invio TICKET a <span style="color: red;"><b>ESSELUNGA- PORTE APERTE</span></b></li>
+<li>A chiusura PV contattare: <ul><li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a <b>CREA-ESSELUNGA</b></li>
+<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a <b>CREA-ESSELUNGA</b></li></li>
+<li>Al di fuori degli orari sopra elencati: segnalazione per mezzo di chiamata a <b>Centrale Allarmi</b> e invio TICKET a <b>CREA-ESSELUNGA</b></li></li>
+</ul></li>
+</ul>
+
+<br>
+
+<h4 style="font-weight:bold">GESTIONE ALLARMI ALTA TEMPERATURA SULLE CELLE:</h4>
+<h4 style="font-weight:bold"><span style="color: red;">(Dopo due ore segnalare alta temperatura celle, le due ore devono partire da quando la porta è chiusa).</span></h4>
+<ul>
+<li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET</li>
+<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET</li></li>
+<li>Al di fuori degli orari sopra elencati: segnalazione per mezzo di chiamata a <b>Centrale Allarmi</b> e invio TICKET</li></li>
+</ul>
+
+<br>
+
+<h4 style="font-weight:bold">GESTIONE ALLARME SEGNALE VITA KO:</h4>
+<ul>
+<li><span style="color: red;"><b>COLLEGAMENTO KO: </span></b> gestire come allarme di priorità <b><span style="color: orange;">ALTA</span></b></li>
+<li><b>COLLEGAMENTO OK</b>, <span style="color: red;">ma mancata ricezione mail:</span> gestire come allarme di priorità <span style="color: orange;">ALTA</span></li>
+</ul>
+
+<br><br>
