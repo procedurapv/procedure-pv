@@ -31,9 +31,9 @@
 <h4 style="font-weight:bold">GESTIONE ALLARMI PORTA APERTA</h4>
 <ul>
 <li>Ad apertura PV: segnalazione per mezzo di chiamata a <b>Punto Vendita</b> e invio TICKET a <span style="color: red;"><b>ESSELUNGA- PORTE APERTE</span></b></li>
-<li>A chiusura PV contattare: <ul><li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a <span style="color: red;"><b>ESSELUNGA- PORTE APERTE</span></li>
-<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a  <span style="color: red;"><b>ESSELUNGA- PORTE APERTE</span></li></li>
-<li>Al di fuori degli orari sopra elencati: segnalazione per mezzo di chiamata a <b>Centrale Allarmi</b> e invio TICKET a <span style="color: red;"><b>ESSELUNGA- PORTE APERTE</span></li></li>
+<li>A chiusura PV contattare: <ul><li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a <span style="color: red;"><b>ESSELUNGA- PORTE APERTE</span></b></li>
+<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a  <span style="color: red;"><b>ESSELUNGA- PORTE APERTE</span></b></li></li>
+<li>Al di fuori degli orari sopra elencati: segnalazione per mezzo di chiamata a <b>Centrale Allarmi</b> e invio TICKET a <span style="color: red;"><b>ESSELUNGA- PORTE APERTE</span></b></li></li>
 </ul></li>
 </ul>
 
