@@ -21,9 +21,9 @@
 
 <h4 style="font-weight:bold">GESTIONE ALLARMI PRIORITA' <span style="color: red;">ALTISSIMA</span></h4>
 <ul>
-<li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET</li>
-<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET</li></li>
-<li>Al di fuori degli orari sopra elencati: segnalazione per mezzo di chiamata a <b>Centrale Allarmi</b> e invio TICKET</li></li>
+<li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a <b>CREA-ESSELUNGA-MANUTENZIONE</b></li>
+<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a <b>CREA-ESSELUNGA-MANUTENZIONE</b></li></li>
+<li>Al di fuori degli orari sopra elencati: segnalazione per mezzo di chiamata a <b>Centrale Allarmi</b> e invio TICKET a <b>CREA-ESSELUNGA</b></li></li>
 </ul>
 
 <br>
@@ -31,8 +31,8 @@
 <h4 style="font-weight:bold">GESTIONE ALLARMI PORTA APERTA</h4>
 <ul>
 <li>Ad apertura PV: segnalazione per mezzo di chiamata a <b>Punto Vendita</b> e invio TICKET a <span style="color: red;"><b>ESSELUNGA- PORTE APERTE</span></b></li>
-<li>A chiusura PV contattare: <ul><li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a <b>CREA-ESSELUNGA</b></li>
-<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a <b>CREA-ESSELUNGA</b></li></li>
+<li>A chiusura PV contattare: <ul><li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a  a <b>CREA-ESSELUNGA-MANUTENZIONE</b></li>
+<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a  a <b>CREA-ESSELUNGA-MANUTENZIONE</b></li></li>
 <li>Al di fuori degli orari sopra elencati: segnalazione per mezzo di chiamata a <b>Centrale Allarmi</b> e invio TICKET a <b>CREA-ESSELUNGA</b></li></li>
 </ul></li>
 </ul>
@@ -42,9 +42,9 @@
 <h4 style="font-weight:bold">GESTIONE ALLARMI ALTA TEMPERATURA SULLE CELLE:</h4>
 <h4 style="font-weight:bold"><span style="color: red;">(Dopo due ore segnalare alta temperatura celle, le due ore devono partire da quando la porta è chiusa).</span></h4>
 <ul>
-<li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET</li>
-<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET</li></li>
-<li>Al di fuori degli orari sopra elencati: segnalazione per mezzo di chiamata a <b>Centrale Allarmi</b> e invio TICKET</li></li>
+<li>Dal Lunedì al Sabato (dalle ore 5:00 alle ore 1:00): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a <b>CREA-ESSELUNGA-MANUTENZIONE</b></li>
+<li>Domenica (dalle ore 7:00 alle ore 14:30): segnalazione per mezzo di chiamata a <b>Ufficio Manutenzione</b> e invio TICKET a <b>CREA-ESSELUNGA-MANUTENZIONE</b></li></li>
+<li>Al di fuori degli orari sopra elencati: segnalazione per mezzo di chiamata a <b>Centrale Allarmi</b> e invio TICKETa <b>CREA-ESSELUNGA</b></li></li>
 </ul>
 
 <br>
